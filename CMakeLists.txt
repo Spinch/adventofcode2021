@@ -4,6 +4,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 project(advcode2021)
 
-add_executable(advcode2021 main.cpp day1.cpp)
+add_executable(advcode2021 main.cpp day1.cpp day2.cpp)
 
 install(TARGETS advcode2021 RUNTIME DESTINATION bin)

@@ -1,7 +1,7 @@
 
 #pragma once
 
-namespace day1
+namespace day2
 {
 
 void task0();
