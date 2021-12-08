@@ -1,7 +1,7 @@
-#include "day5.h"
+#include "day6.h"
 
 int main() {
-    day5::task0();
-    day5::task1();
+    day6::task0();
+    day6::task1();
     return 0;
 }
