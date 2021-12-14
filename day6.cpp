@@ -50,4 +50,4 @@ void task1()
     solveTask<long long unsigned int>(256);
 }
 
-}; /* namespace day5 */
+}; /* namespace day6 */
