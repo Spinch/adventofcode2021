@@ -4,15 +4,8 @@
 #include <algorithm>
 #include <string>
 #include <sstream>
-#include <vector>
-#include <deque>
-#include <numeric>
-#include <cstdlib>
-#include <unordered_set>
 
 #include "day14.h"
-
-#define TRACE cout << "Line: " << __LINE__ << endl;
 
 using namespace std;
 
